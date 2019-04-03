@@ -1,0 +1,25 @@
+body{
+    background-color: forestgreen;
+}
+nav a{
+    color:red;
+}
+article > p{
+    background-color: aqua;
+}
+.active {
+    color: blanchedalmond
+}
+#topnav{
+    background-color: white;
+}
+footer a{
+    color: purple;
+}
+a {
+    color: darkgoldenrod;
+}
+div ~ p {
+    background-color: teal;
+}
+
